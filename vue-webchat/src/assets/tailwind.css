@@ -1,0 +1,20 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+.bg-wa-dark {
+  background-color: #140350;
+}
+.bg-wa-darker {
+  background-color: #584894;
+}
+
+.bg-wa-lighter {
+  background-color: #5209fd;
+}
+
+.text-wa-lighter {
+  color: #5209fd;
+}
